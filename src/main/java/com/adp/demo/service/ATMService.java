@@ -1,6 +1,5 @@
 package com.adp.demo.service;
 
-import com.adp.demo.model.Coin;
 import com.adp.demo.model.Transaction;
 import org.springframework.stereotype.Service;
 
